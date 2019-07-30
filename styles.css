@@ -34,6 +34,7 @@ img {
   width: 400px;
   height: 400px;
   object-fit: cover;
+  box-shadow: 4px 4px rgba(255, 255, 255, 0.5);
 }
 input[type="submit"] {
   font-family: 'Montserrat', sans-serif;
@@ -44,6 +45,7 @@ input[type="submit"] {
   height: 50px;
   border: none;
   color: #FFFFFF;
+  box-shadow: 4px 4px rgba(255, 255, 255, 0.5);
 }
 
 @media only screen and (max-width: 550px) {
